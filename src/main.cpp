@@ -1,6 +1,5 @@
 #include <Arduino.h>
 
-// Define the pins that we will use
 #define CAPTEUR 33
 #define LED 26
 
